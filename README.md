@@ -1,13 +1,3 @@
-
-
-
-
-
-
-
-
-
-
 # Oblivion - Unofficial Warp Client for Android
 
 "Internet, for all or none!"
